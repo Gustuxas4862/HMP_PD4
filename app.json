@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Ad_System",
+    "slug": "Ad_System",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Ad_System"
+}
